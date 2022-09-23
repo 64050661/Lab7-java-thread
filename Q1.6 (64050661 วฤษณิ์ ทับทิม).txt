@@ -1,0 +1,1 @@
+From worker1 thread 15 x value is 3
